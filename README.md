@@ -1,8 +1,16 @@
-# Notas:
+# Fundamentos de sockets
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Temas cubiertos en este repositorio:
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Introducción a los sockets
+Instalación de Socket.io
+Detectar conexiones y desconexiones de usuarios
+Emitir mensajes cliente servidor / servidor cliente
+Escuchar los mensajes servidor cliente / cliente servidor
+Broadcast
+Callbacks en los sockets
+
+Ejecutar el siguiente comando para reconstruir los módulos de Node:
 
 ```
 npm install
